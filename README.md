@@ -1,7 +1,6 @@
 <h4>Banking System</h4>
 <p>Instructions on How to Run the application <br>
 >Install flask <br>
->pip install flask <br>
 >Install Postman for API testing <br>
 >load app.py <br>
 >Run the file <br>
